@@ -1,2 +1,2 @@
-img src="https://i.ibb.co/ZGPh8w4/blue-tech-banner.jpg" width="100%" />
+<img src="https://i.ibb.co/3NkhDqD/data-analyst-banner.png" width="100%" />
 
