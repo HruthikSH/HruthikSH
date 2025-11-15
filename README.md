@@ -1,1 +1,2 @@
-<img src="YOUR-BANNER-LINK" width="100%"/>
+img src="https://i.ibb.co/ZGPh8w4/blue-tech-banner.jpg" width="100%" />
+
